@@ -2,7 +2,7 @@
 This is a boilerplate for a RESTful API server using Node.js, Express, Typescript and MongoDB. It is designed to be a starting point for building a RESTful API server with a modular architecture. It is also designed to be easy to use and easy to understand.
 
 ## Attention
-This is copy of [RESTful API Node Server Boilerplate](https://github.com/hagopj13/node-express-boilerplate) with support of Typescript and updated methods.
+This is a clone of [RESTful API Node Server Boilerplate](https://github.com/hagopj13/node-express-boilerplate) with support of Typescript and updated methods.
 
 ## Commands
 
