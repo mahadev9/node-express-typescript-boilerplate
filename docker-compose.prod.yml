@@ -1,0 +1,6 @@
+version: '1'
+
+services:
+  node-app:
+    container_name: node-app-prod
+    command: npm run start:prod
